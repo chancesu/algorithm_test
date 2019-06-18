@@ -8,6 +8,8 @@ function solution(participant, completion) {
   return answer;
 }
 
+solution([leo, kiki, eden], [eden, kiki]);
+
 // ## 완주하지 못한 선수
 
 // 문제 설명
